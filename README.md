@@ -14,4 +14,3 @@ to uncover insights about movie trends on Netflix.
 
 ## Getting Started
 1. Clone the repository: https://github.com/Yogendra9054kumar/Data-analytics-project.git
-2. 
